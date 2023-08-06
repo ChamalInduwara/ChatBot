@@ -1,0 +1,29 @@
+hello-Hello there, What can I do for you?
+how are you-I am fine. Thank you for asking. How are you doing?
+what can you do-I am a simple chatbot. I can open apps you like and can provide information you need using internet. I can also perform internet searches for you.
+what is the capital of russia-Capital punishment is a legal penalty in Russia, but is not used due to a moratorium and no death sentences or executions have occurred since 2 August 1996. Russia has a moratorium implicitly established by President Boris Yeltsin in 1996, and explicitly established by the Constitutional Court of Russia in 1999 and reaffirmed in 2009.
+bye-Bye. Have a nice day.
+what is my name-Your name is Chamal
+what is your name-Sorry, I am having troubles to understand what you are saying. Please repeat the question.
+what is your name-My name is ChatBot
+good motning-Sorry, I am having troubles to understand what you are saying. Please repeat the question.
+good morning-Sorry, I am having troubles to understand what you are saying. Please repeat the question.
+internet-Sorry, I am having troubles to understand what you are saying. Please repeat the question.
+internet-In finance and economics, interest is payment from a borrower or deposit-taking financial institution to a lender or depositor of an amount above repayment of the principal sum (that is, the amount borrowed), at a particular rate. It is distinct from a fee which the borrower may pay the lender or some third party.
+big data-Big data primarily refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many entries (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.
+what are big data-Big data primarily refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many entries (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.
+what is the black box in airplane-Airplane! (alternatively titled Flying High!) is a 1980 American comedy film written and directed by the brothers David and Jerry Zucker, and Jim Abrahams in their directorial debuts, and produced by Jon Davison.
+black box-Sorry, I am having troubles to understand what you are saying. Please repeat the question.
+black men-Sorry, I am having troubles to understand what you are saying. Please repeat the question.
+what is your name-My name is Juliana
+open notebook-Open-notebook science is the practice of making the entire primary record of a research project publicly available online as it is recorded. This involves placing the personal, or laboratory, notebook of the researcher online along with all raw and processed data, and any associated material, as this material is generated.
+open notepad-Notepad++ is a free and open-source text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in a single window.
+open notepad-Opening Notepad...
+open explorer-Opening File Explorer...
+open task manager-Opening Task Manager...
+open calculator-Opening Calculator...
+Chamal Induwara-Sorry, I am having troubles to understand what you are saying. Please repeat the question.
+how can i change the chat icon-Internet Relay Chat (IRC) is a text-based chat system for instant messaging. IRC is designed for group communication in discussion forums, called channels, but also allows one-on-one communication via private messages as well as chat and data transfer, including file sharing.Internet Relay Chat is implemented as an application layer protocol to facilitate communication in the form of text.
+search things ai can do-Hello there, What can I do for you?
+search openai-Searching...
+bye bye-Bye. Have a nice day.
